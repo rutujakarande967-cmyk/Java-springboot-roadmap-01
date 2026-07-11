@@ -7,7 +7,7 @@ Learning Java and Spring Boot from scratch.
        
 ## DAY 03: Control statements and comparison operators and logical operators
 
- ## DAY 04: switch statement
+## DAY 04: switch statement
 case and default,
 break statement,
 Menu driven applications,
@@ -16,7 +16,7 @@ Building small console based projects,
 Applying all concepts from day 1 to day 4 in a single application.
 
 
-# DAY 05:
+# DAY 05: Loops
 for loop,
 while loop,
 do while loop,
